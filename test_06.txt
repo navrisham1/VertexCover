@@ -1,0 +1,4 @@
+a "king street" (1,2)(8,2)
+a "davenport street" (2,2)(7,2)
+g
+#(2,2) and (7,2) has to be intersection

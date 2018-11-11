@@ -1,0 +1,4 @@
+a "king street" (3,5)(5,5)(5,8)
+a "davenport street" (8,8)(5,8)(5,5)
+g
+# edges should be (3,5) (5,5) and (5,5) (5,8) and (5,8) (8,8)

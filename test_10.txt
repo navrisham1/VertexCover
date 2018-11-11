@@ -1,0 +1,13 @@
+"horizontal_lines"
+a "king street" (1,4) (3,4)
+a "davenport street" (0,4) (3,4)
+g
+"same_lines"
+a "king street" (1,4) (3,4)
+a "davenport street" (1,4) (3,4)
+g
+vertical_lines
+c "king street" (4,0) (4,4)
+c "davenport street" (4,1) (4,3)
+g
+#1,4 is only Intersection
